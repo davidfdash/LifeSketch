@@ -1,0 +1,58 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 2em;
+  margin: 0 auto 0 400px;
+}
+
+h3 {
+  width: 24%;
+  display: inline-block;
+  text-align: center;
+}
+h4 {
+  display: inline-block;
+  width: 20%;
+}
+.top-banner {
+  display: inline;
+}
+
+.banner-img {
+  width: 30%;
+  margin: 1%;
+}
+
+.image-div {
+  display: inline-block;
+  margin: 0 auto 0 auto;
+}
+
+.cursive-f {
+  font-family: 'Dancing Script', cursive;
+}
+.service-top-line {
+  width: auto;
+  margin: 0 auto 0 25%;
+}
+.service-bottom-line {
+  width: auto;
+  margin: 0 auto 0 15%;
+}
+.bottom-banner {
+  display: flex;
+}
+.bottom-column1 {
+  width: 45%;
+}
+.bottom-column2 {
+  width: 45%;
+}
