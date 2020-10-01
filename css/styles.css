@@ -1,5 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
+  background-color: #e4e3e3;
+  color: #204051;
 }
 
 h1 {
@@ -49,15 +51,15 @@ h4 {
 }
 .dark-mode {
   padding-top: 10px;
-  background-color: black;
-  color: white;
+  background-color: #204051;
+  color: #84a9ac;
   margin: 0;
   padding-left: 40%;
 }
 .bottom-banner {
-  background-color: black;
+  background-color: #204051;
   display: flex;
-  color: white;
+  color: #84a9ac;
   margin: 0;
   padding-left: 25%;
 }
